@@ -17,4 +17,6 @@ const sayHello = () => {
 
 function newFeature() {
     console.log("This is new feature");
+    console.log("feature updated");
+
 }
