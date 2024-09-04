@@ -8,3 +8,8 @@ function AFeature() {
   console.log("this is a feature");
   console.log("this is a feature A");
 }
+
+function BFeature() {
+  console.log("this is a feature");
+  console.log("this is a feature B");
+}
